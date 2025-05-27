@@ -1,0 +1,1 @@
+This folder contains the HTML files, CSS files and Images to WDD130 introduction to Web Development. This course, Web Design and Development program provides a solid background in both the breadth and depth of website design and development, allowing students to choose one of three areas of emphasis: Business and Communications, Website Design, or Website Development.
