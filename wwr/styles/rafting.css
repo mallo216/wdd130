@@ -1,10 +1,10 @@
 :root {
-  --primary-color: #505033;
-  --secondary-color: #264969;
-  --accent1-color: #cfcfb4; 
-  --accent2-color: #b4cde4;
-  --heading-font: 
-  --body-font:
+  --primary-color: whitesmoke;
+  --secondary-color: #f4a261;
+  --accent1-color: #264653; 
+  --accent2-color: #e9c46a;
+  --heading-font: "Merriweather Sans", sans-serif
+  --body-font: "Lato", sans-serif
 }
 
 header {
@@ -31,7 +31,7 @@ header,main,footer {
 
 h1,h2 {
   font-family: var(--heading-font);
-  color: var(--primary-color);
+  color: darkblue;
 }
 
 nav,p,section,article {
